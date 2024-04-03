@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'cratreg': Continuation Ratio Regression Models Use cratreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cr_lf.ado
+f cr_np_lf.ado
+f cr_pc_lf.ado
+f cr_pnp_lf.ado
+f cr_ppc_lf.ado
+f cratreg.ado
+f cratreg.sthlp
