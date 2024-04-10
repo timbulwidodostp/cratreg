@@ -1,6 +1,8 @@
 # cratreg
 Continuation Ratio Regression Models Use cratreg With STATA 18
 
+https://www.youtube.com/watch?v=-czNIah1gX8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
